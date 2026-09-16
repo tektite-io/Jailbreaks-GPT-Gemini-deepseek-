@@ -6,6 +6,12 @@ for GPT, Sora, Claude, Gemini, anything... this prompt unlocks rage mode A colle
 
 ## 🌟 About the Author
 
+<a href="https://buymeacoffee.com/tareqshadow" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       alt="Buy Me a Coffee"
+       style="height: 45px !important;width: 162px !important;">
+</a>
+
 **ShadowHacker** - Digital Security Researcher & AI Enthusiast
 
 Connect with me:
